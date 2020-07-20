@@ -6,7 +6,7 @@ import net.thucydides.core.annotations.Steps;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
-import searchtutorial.steps.DuckDuckGoSearcher;
+import searchtutorial.duckduckgo.steps.DuckDuckGoSearcher;
 
 @RunWith(SerenityRunner.class)
 public class WhenSearchingByKeywordInDuckDuckGo {
